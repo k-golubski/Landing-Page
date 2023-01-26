@@ -96,3 +96,18 @@ button {
 .one p {
     text-align: center;
 }
+
+/* Section Two */
+.two {
+    display: flex;
+    justify-content: center;
+}
+
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    background-color: lightgray;
+    text-align: center;
+    padding: 30px;
+}
